@@ -1,0 +1,9 @@
+# 편집기 및 운영체제 임시 파일
+.DS_Store
+Thumbs.db
+.vscode/
+
+# 실행 중 생성되는 임시 파일
+node_modules/
+*.log
+.Rhistory
